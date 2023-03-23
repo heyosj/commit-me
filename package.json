@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "openai": "^3.2.1"
+  },
+  "name": "chatgpt-commit-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "axios": "^0.26.1",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "dotenv": "^16.0.3",
+    "follow-redirects": "^1.15.2",
+    "form-data": "^4.0.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
